@@ -131,7 +131,7 @@ C:\ProgramData\SFTPAssistant\SFTPAssistant\Logs\SFTPAssistant.Licensing.log
 
 For detailed setup, configuration, scheduling, and troubleshooting instructions:
 
-https://github.com/sftpassistant/SFTPAssistant/blob/main/docs/SFTPAssistant-User-Guide.pdf
+https://github.com/sftpassistant/SFTPAssistant/blob/main/docs/SFTPAssistant_User_Guide.pdf
 
 ---
 
