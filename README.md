@@ -126,6 +126,13 @@ If validation fails, check:
 C:\ProgramData\SFTPAssistant\SFTPAssistant\Logs\SFTPAssistant.Licensing.log
 ```
 
+
+## Detailed User Guide
+
+For detailed setup, configuration, scheduling, and troubleshooting instructions:
+
+https://github.com/sftpassistant/SFTPAssistant/blob/main/docs/SFTPAssistant-User-Guide.pdf
+
 ---
 
 ## Support
